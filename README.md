@@ -23,7 +23,6 @@
 - 🎨 Certificado em **UX Design**: gosto de interfaces que são bonitas *e* acessíveis
 - 🤖 Pós-graduando em **Inteligência Artificial**
 - 📱 Construo apps web com **Angular** e apps mobile com **React Native**
-- 🧩 Meu [portfólio](https://jorge-ribeiro.vercel.app/) não diz que eu entendo de design system: ele **é** um, com tokens, changelog e um playground ao vivo
 - 🇧🇷 Brasileiro
 
 ---
@@ -59,10 +58,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🐑 <a href="https://github.com/N1JNR/cuesta-pro">TsonPro</a></h4>
-      <p>Sistema web para gestão de ovinocultura: cadastro de animais, controle de rebanho, relatórios e alertas de vacinação.</p>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <h4>💰 <a href="https://github.com/N1JNR/gerenciador-financeiro">Gerenciador Financeiro</a></h4>
+      <p>Aplicação web para controle das finanças pessoais.</p>
+      <img src="https://img.shields.io/badge/Angular_20-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular_Material-3F51B5?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h4>🎨 <a href="https://github.com/N1JNR/jorge-ribeiro-portfolio">Portfólio jnr-ds</a></h4>
