@@ -81,8 +81,8 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=N1JNR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1JNR&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=N1JNR&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1JNR&theme=tokyonight" alt="Linguagens" />
 </p>
 
 <p align="center">
